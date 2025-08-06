@@ -6,7 +6,7 @@ metadata:
     backstage.io/techdocs-ref: url:https://github.com/xaion-jmlim/backstage
     github.com/project-slug: xaion-jmlim/backstage
     argocd/proxy-url: '/argocd/api'
-    argocd/app-name: dev-eos.be
+    argocd/app-name: dev-eos-be
 spec:
   lifecycle: production
   owner: xaion-jmlim
