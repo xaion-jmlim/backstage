@@ -9,5 +9,5 @@ metadata:
     argocd/app-name: dev-eos-be
 spec:
   lifecycle: production
-  owner: DevOps
+  owner: Engineering
   type: service
